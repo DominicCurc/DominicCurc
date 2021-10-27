@@ -1,5 +1,3 @@
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... web development projects and AWS certifications
 - 🌱 I’m currently learning ... React, GraphQL, and a bunch of dev ops and cloud things
 - 👯 I’m looking to collaborate on ... the next big startup 🤩
